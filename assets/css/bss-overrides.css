@@ -7,6 +7,11 @@
   margin-left: auto !important;
 }
 
+.my-0 {
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+}
+
 .me-auto {
   margin-right: auto !important;
 }
@@ -23,12 +28,21 @@
   margin-bottom: 1.5rem !important;
 }
 
+.mb-5 {
+  margin-bottom: 3rem !important;
+}
+
 .ms-auto {
   margin-left: auto !important;
 }
 
 .p-5 {
   padding: 3rem !important;
+}
+
+.py-0 {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
 }
 
 .py-5 {
